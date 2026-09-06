@@ -1,102 +1,40 @@
 {
-  "generated": "2026-09-01T05:18:43.127596+00:00",
-  "from": "2026-08-18",
-  "to": "2026-09-01",
-  "total": 62,
-  "covered": 15,
-  "intro": "Období bylo charakteristické významnými rozsudky Soudního dvora EU v oblasti GDPR a autorského práva, zejména v otázkách geo-blockingu a novinářského vyjmutí. Výrazný prostor zaujala problematika umělé inteligence v kontextu licencování a kontraktace, spolu s rozvojem judikatury k standardně esenciálním patentům (FRAND).",
+  "generated": "2026-09-06T23:42:35.499393+00:00",
+  "from": "2026-08-23",
+  "to": "2026-09-06",
+  "total": 53,
+  "covered": 10,
+  "intro": "Období bylo charakteristické judikaturou Soudního dvora EU k hranicím odpovědnosti platforem a autorskoprávní ochraně obsahu na sociálních sítích. Významný prostor zaujala problematika AI v kontextu autorského práva a smluvnívolby, rovněž právní aspekty cirkulární ekonomiky a upcyklace.",
   "blocks": [
     {
-      "title": "Ochrana dat a GDPR",
-      "text": "Soudní dvůr EU upřesnil, že zveřejňování jmen sportovců porušujících antidopingová pravidla je přípustné a že zpřístupnění trestních rozsudků za platbu nespadá pod novinářské vyjmutí, pokud chybí redakční linie a etika. V předběžní otázce zkoumá, zda vnitrostátní promlčecí lhůty mohou legitimizovat uchovávání dat po vypršení konkrétních lhůt stanovených GDPR.",
+      "title": "Odpovědnost hostingových poskytovatelů",
+      "text": "Soudní dvůr EU rozhodl, že hostingový poskytovatel nemůže uplatnit osvobození od odpovědnosti, pokud s tvůrcem obsahu uzavřel smlouvu o sdílení výnosů a prověřoval metadata či hlavní téma kanálu. To v praxi omezuje možnost uplatnit režim \"safe harbor\" u platforem, které aktivně monetizují obsah.",
       "sources": [
         {
           "src": "cjeu",
           "label": "CJEU",
-          "tag": "Referral",
-          "title": "C-801/26 (Jurcki)",
-          "link": "https://curia.europa.eu/juris/liste.do?num=C-801/26"
-        },
-        {
-          "src": "cjeu",
-          "label": "CJEU",
           "tag": "Ruling",
-          "title": "C-474/24 (NADA  Austria and Others)",
-          "link": "https://curia.europa.eu/juris/liste.do?num=C-474/24"
-        },
-        {
-          "src": "cjeu",
-          "label": "CJEU",
-          "tag": "Ruling",
-          "title": "C-199/24 (Legal Newsdesk Sweden)",
-          "link": "https://curia.europa.eu/juris/liste.do?num=C-199/24"
+          "title": "C-421/24 (AGCOM (Jeux d’argent en ligne))",
+          "link": "https://curia.europa.eu/juris/liste.do?num=C-421/24"
         }
       ]
     },
     {
-      "title": "Autorské právo a AI",
-      "text": "SDEU rozhodl, že účinný geo-blocking znemožňuje uznání „šíření veřejnosti“ v zemi, kde je dílo chráněno. Souběžně probíhá diskuse o nutnosti licencování tréninkových dat pro AI a o legitimnosti reziduálních práv na odměnu pro tvůrce v rámci směrnice CDSMD.",
+      "title": "Autorské právo na sociálních sítích",
+      "text": "CJEU potvrdil, že texty na sociálních sítích jsou chráněnými díly, pokud vyjadřují intelektuální tvorbu odrážející osobnost autora. U výjimky pro informování o aktuálních událostech konstatoval, že členské státy mohou užití omezit na krátké úryvky, ale nesmí zakázat z něj utahovat komerční zisk.",
       "sources": [
         {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "IIC",
-          "title": "The Validity of the Residual Right of Remuneration under Articles 17 and 18 CDSMD – Opinion of the European Copyright Society in Streamz (Case C-663/24)",
-          "link": "https://doi.org/10.1007/s40319-026-01751-4"
-        },
-        {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "JIPLP",
-          "title": "Artificial intelligence—a call to recalibrate copyright law?",
-          "link": "https://doi.org/10.1093/jiplp/jpag067"
-        },
-        {
           "src": "cjeu",
           "label": "CJEU",
           "tag": "Ruling",
-          "title": "C-788/24 (Anne Frank Fonds)",
-          "link": "https://curia.europa.eu/juris/liste.do?num=C-788/24"
-        },
-        {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "JIPLP",
-          "title": "European Parliament and House of Lords publish reports on AI and copyright: policy directions for artificial intelligence and copyright in the EU and the UK",
-          "link": "https://doi.org/10.1093/jiplp/jpag061"
+          "title": "C-598/24 (Gândul Media Network)",
+          "link": "https://curia.europa.eu/juris/liste.do?num=C-598/24"
         }
       ]
     },
     {
-      "title": "Patenty a FRAND",
-      "text": "Německý spolkový soudní dvůr v judikatuře FRAND Defence III postupně rozvíjí přístup k litigaci standardně esenciálních patentů v souladu s rámcem SDEU. V oblasti farmacie byla analyzována aplikace exportní výjimky z doplňkových ochranných certifikátů (SPC) a její dopad na konkurenci.",
-      "sources": [
-        {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "IIC",
-          "title": "“FRAND Defence III (FRAND-Einwand III)” – Decision of the Federal Court of Justice of Germany (Bundesgerichtshof) 27 January 2026 – Case No. KZR 10/25",
-          "link": "https://doi.org/10.1007/s40319-026-01768-9"
-        },
-        {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "GRUR Int",
-          "title": "Interpretation and Assessment of the SPC Waiver in the European Pharmaceutical Landscape",
-          "link": "https://doi.org/10.1093/grurint/ikag081"
-        },
-        {
-          "src": "journals",
-          "label": "Časopis",
-          "tag": "IIC",
-          "title": "Developing Jurisprudence by Taking Tiny Steps – The FRAND Defence III Decision of the German Federal Court of Justice",
-          "link": "https://doi.org/10.1007/s40319-026-01767-w"
-        }
-      ]
-    },
-    {
-      "title": "Digitální antitrust a kontrakty",
-      "text": "Právní analýzy varují před aplikací analogie zastoupení u algoritmické kontraktace, neboť algoritmus nemá právní subjektivitu a je pouze technickou podporou uživatele. Aktuální publikace se navíc zaměřují na specifika ochrany soutěže v éře velkých online platforem.",
+      "title": "AI a digitální kontraktace",
+      "text": "Aktuální analýzy zdůrazňují potřebu transparentnosti tréninkových dat AI a rekalibrace autorského práva, aby nedošlo k narušení tržních mechanismů. V oblasti smluv bylo potvrzeno, že algoritmy nemají právní subjektivitu a jsou pouze technickou podporou, za kterou nese plnou odpovědnost uživatel.",
       "sources": [
         {
           "src": "journals",
@@ -108,39 +46,66 @@
         {
           "src": "journals",
           "label": "Časopis",
-          "tag": "TLQ",
-          "title": "Václav Šmejkal, Digitální antitrust: EU a ochrana hospodářské soutěžev éře velkých online platforem (Digital Antitrust: EU Competition Lawin the Era of Large Online Platforms). Prague: Karolinum, 2026, 216 pp.",
-          "link": "https://tlq.ilaw.cas.cz/article/view/1050"
+          "tag": "JIPLP",
+          "title": "Artificial intelligence—a call to recalibrate copyright law?",
+          "link": "https://doi.org/10.1093/jiplp/jpag067"
+        },
+        {
+          "src": "journals",
+          "label": "Časopis",
+          "tag": "JIPLP",
+          "title": "European Parliament and House of Lords publish reports on AI and copyright: policy directions for artificial intelligence and copyright in the EU and the UK",
+          "link": "https://doi.org/10.1093/jiplp/jpag061"
         }
       ]
     },
     {
-      "title": "Ochranné známky a nekalá soutěž",
-      "text": "Nejvyšší soud ČR potvrdil v konkrétním sporu nároky z nekalosoutěžního jednání. V oblasti značek byla zkoumána problematika komerčního prodeje výrazně restaurované luxusní módy a absolutní důvody pro odmítnutí registrace znaků s kulturním významem.",
+      "title": "Patenty a ochranné známky",
+      "text": "V oblasti patentů probíhá v Německu postupný rozvoj judikatury k FRAND licencování standardně esenciálních patentů. U ochranných známek se řeší legitimita upcyklace a transformace starých produktů, což vyžaduje hledání rovnováhy mezi ochranou značky a podporou udržitelnosti.",
       "sources": [
         {
-          "src": "nsoud",
-          "label": "NS 23 Cdo",
-          "tag": "",
-          "title": "23 Cdo 1578/2026",
-          "link": "https://rozhodnuti.nsoud.cz/Judikatura/att.nsf/at/366FE7BF05F96D13C1258E5A001BB41D/$file/23%20Cdo%201578_2026.pdf?openElement"
+          "src": "journals",
+          "label": "Časopis",
+          "tag": "IIC",
+          "title": "Living with “Nero Lifestyle” (or How to Prevent “Delimited” Trade Marks From Burning Geographical Indications Down)",
+          "link": "https://doi.org/10.1007/s40319-026-01765-y"
         },
         {
           "src": "journals",
           "label": "Časopis",
           "tag": "IIC",
-          "title": "The Legal Limits of Luxury: Restricting Third-Party Restoration of Luxury Fashion",
-          "link": "https://doi.org/10.1007/s40319-026-01752-3"
+          "title": "“FRAND Defence III (FRAND-Einwand III)” – Decision of the Federal Court of Justice of Germany (Bundesgerichtshof) 27 January 2026 – Case No. KZR 10/25",
+          "link": "https://doi.org/10.1007/s40319-026-01768-9"
         },
         {
           "src": "journals",
           "label": "Časopis",
-          "tag": "GRUR Int",
-          "title": "Trademarking Signs with Cultural Significance: How to Position Simultaneous and Diachronic Rights Overlap in a Spectrum of Absolute Grounds of Refusal",
-          "link": "https://doi.org/10.1093/grurint/ikag076"
+          "tag": "IIC",
+          "title": "Developing Jurisprudence by Taking Tiny Steps – The FRAND Defence III Decision of the German Federal Court of Justice",
+          "link": "https://doi.org/10.1007/s40319-026-01767-w"
+        },
+        {
+          "src": "journals",
+          "label": "Časopis",
+          "tag": "IIC",
+          "title": "“Great Balls of Fire, They’re My Portieres Now!” Unpacking the Legal Arguments in Favor of Upcycling",
+          "link": "https://doi.org/10.1007/s40319-026-01757-y"
+        }
+      ]
+    },
+    {
+      "title": "Právo v kosmickém prostoru",
+      "text": "Objevují se první vnitrostátní předpisy pro provoz jaderných reaktorů v kosmickém prostoru pro potřeby těžby a obydlení. Autor zdůrazňuje nedostatečnost současných úprav a nezbytnost vytvoření robustního multilaterálního rámce v mezinárodním veřejnoprávním rámci.",
+      "sources": [
+        {
+          "src": "journals",
+          "label": "Časopis",
+          "tag": "Právník",
+          "title": "Kosmické reaktory a právo",
+          "link": "https://www.ilaw.cas.cz/casopisy-a-knihy/casopisy/casopis-pravnik/archiv/2026/2026-9.html?a=4058"
         }
       ]
     }
   ],
-  "input_hash": "7055578cf58ce655e4c1d1602a9f95153c2e246cec622d614b4e0cc99f05d1c9"
+  "input_hash": "ee6ee44d5e86880b5b22cf4339dc6954bb7e343b1a8c02a045515eefc35ae5ca"
 }
